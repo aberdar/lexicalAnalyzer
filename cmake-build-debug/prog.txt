@@ -1,0 +1,11 @@
+begin
+x:=60;
+y:=12;
+while (x < y) do
+x = x*15;
+y = y/60;
+60
+15
+12
+loop
+end

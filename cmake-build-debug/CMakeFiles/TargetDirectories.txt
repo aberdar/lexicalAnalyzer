@@ -1,0 +1,3 @@
+C:/code/clion/lexicalAnalyzer/cmake-build-debug/CMakeFiles/lexicalAnalyzer.dir
+C:/code/clion/lexicalAnalyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/code/clion/lexicalAnalyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
